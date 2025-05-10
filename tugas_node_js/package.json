@@ -1,0 +1,11 @@
+{
+  "name": "tugas_node_js",
+  "version": "1.0.0",
+  "description": "tugas 01 pwl",
+  "main": "application1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Yudo Permata",
+  "license": "MIT"
+}
